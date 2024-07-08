@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #578dca93;
-    background: url('https://github.com/vaishnavibilla07/Animated-Login-Form/blob/main/trees.png?raw=true')
+    background: url('https://github.com/vaishnavibilla07/Search-Interface/blob/main/trees.png?raw=true') no-repeat center center fixed;
     display: flex;
     justify-content: center;
     align-items: center;
